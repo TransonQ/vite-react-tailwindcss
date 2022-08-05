@@ -1,5 +1,11 @@
 # vite react
 
+> 做了如下初始化, tailwind css + react + vite
+
+[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app)
+[vite](https://cn.vitejs.dev/)
+[tailwindcss](https://www.tailwindcss.cn/)
+
 1.  初始化项目, 继承 CRA 的 eslint 风格
 
     ```
